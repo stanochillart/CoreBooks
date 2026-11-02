@@ -4,7 +4,7 @@
 
 ### Otvor knihu. Nech prehovorí.
 
-**[Stiahnuť](https://github.com/stanochillart/CoreBooks/releases/download/v1.0/CoreBooks-1.0.apk)** · Android 15+ · bez účtu · bez reklám
+**[Stiahnuť](https://github.com/stanochillart/CoreBooks/releases/download/v1.1/CoreBooks-1.1.apk)** · Android 15+ · bez účtu · bez reklám
 
 ---
 
@@ -28,6 +28,6 @@ Toto nie je obchod. Nevyberie ti zajtrajší titul.
 
 ---
 
-**[Stiahnuť CoreBooks](https://github.com/stanochillart/CoreBooks/releases/download/v1.0/CoreBooks-1.0.apk)**
+**[Stiahnuť CoreBooks](https://github.com/stanochillart/CoreBooks/releases/download/v1.1/CoreBooks-1.1.apk)**
 
 StanoChillArt · [stanochillart.wordpress.com](https://stanochillart.wordpress.com/)

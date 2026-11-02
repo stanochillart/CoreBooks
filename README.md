@@ -4,7 +4,7 @@
 
 ### Open the book. Let it speak.
 
-**[Download](https://github.com/stanochillart/CoreBooks/releases/download/v1.0/CoreBooks-1.0.apk)** · Android 15+ · no account · no ads
+**[Download](https://github.com/stanochillart/CoreBooks/releases/download/v1.1/CoreBooks-1.1.apk)** · Android 15+ · no account · no ads
 
 ---
 
@@ -28,6 +28,6 @@ This is not a shop. It will not choose tomorrow's title.
 
 ---
 
-**[Download CoreBooks](https://github.com/stanochillart/CoreBooks/releases/download/v1.0/CoreBooks-1.0.apk)**
+**[Download CoreBooks](https://github.com/stanochillart/CoreBooks/releases/download/v1.1/CoreBooks-1.1.apk)**
 
 StanoChillArt · [stanochillart.wordpress.com](https://stanochillart.wordpress.com/)
